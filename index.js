@@ -1,1 +1,2 @@
-const raz = "#2"
+const yarin = "#0";
+const raz = "#2";
