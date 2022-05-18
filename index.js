@@ -1,2 +1,2 @@
 const raz = "#2"
-let yarin = "Q #1"
+const yarin = "Queen!"
